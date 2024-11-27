@@ -15,10 +15,13 @@ This project visualizes the timeless concept of Yin and Yang through a rotating 
 
 ## Demo
 
-Check out the live version: [Your Live Demo Link Here](https://ismail-webdev.github.io/Yin-Yang/)
+Check out the live version: [Live Demo Link Here](https://ismail-webdev.github.io/Yin-Yang/)
 
 ## Technologies Used
 
 - **HTML5**: Semantic structure and layout.
 - **CSS3**: Styling, animations, and pseudo-elements.
 - **Google Fonts**: Typography using the Cinzel font.
+
+## CodePen Link
+Check out the live version: [CodePen Link Here](https://codepen.io/Ismail-Ali-the-looper/pen/xbKxryb)
