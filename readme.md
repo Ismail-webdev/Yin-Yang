@@ -1,4 +1,4 @@
-# Yin Yang Desktop Only 
+# Yin Yang Desktop Only --yet
 ![Banner Image](./images/Yin-Yang.png)
 
 ## Description
